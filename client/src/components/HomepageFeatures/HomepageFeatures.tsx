@@ -20,7 +20,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: "学业",
-    description: "学业描述文本.",
+    description:  <span>学业有困惑？ <br/>一键get√官方解答和学长学姐珍藏经验！</span>,
     url: "./docs/study",
   },
   {
